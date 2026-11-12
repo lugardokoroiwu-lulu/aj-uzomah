@@ -1,0 +1,17 @@
+{
+  "name": "AJ UZOMAH INVESTMENT Ltd — Business Manager",
+  "short_name": "AJ Uzomah",
+  "description": "Sales, purchases, expenses, cash and stock for AJ UZOMAH INVESTMENT Ltd branches.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#18202b",
+  "theme_color": "#18202b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
